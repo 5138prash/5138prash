@@ -8,30 +8,30 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/techy-anshikagupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/prsanttripathi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/ANSHIKA71688056" target="_blank">
+  <a href="https://x.com/prashant_1310_" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://www.instagram.com/anshikagupta.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/prsanttripathi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
 </div>
 
 
-- 🔭 I’m currently working on **E-GAN (Evolutionary Generative Adversarial Networks)**
+- 🔭 I’m currently working on **Almabetter**
 
-- 🌱 I’m currently learning **Parallel Computation**
+- 🌱 I’m currently learning **MERN STACK WITH GSAP**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/5138prash 
 
-- 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
+- 💬 Ask me about **Full Stack Development, Competitive Programming**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **prashanttripathi1310@gmail.com**
 
 
 **Languages and Tools:**  
