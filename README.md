@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Tripathi</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="500" height="350" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </p>
 
 
